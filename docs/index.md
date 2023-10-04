@@ -1,6 +1,6 @@
-# ##COMPONENT_NAME##
+# q0-q4
 
-The ##COMPONENT_NAME## component is responsible for...
+The q0-q4 component is responsible for...
 
 ## Getting started
 
